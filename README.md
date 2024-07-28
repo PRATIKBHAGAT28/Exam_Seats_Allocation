@@ -1,0 +1,1 @@
+Usually, on exam day, students have to find their seating assignments and then rush to the exam hall. The plan is to streamline this by sending the seating information via text message on the exam day, so students can head straight to their seats.
